@@ -14,12 +14,14 @@ h1{font-size: 50px;}
 }
 .button{
     text-decoration:none ;
-    background-color: rgb(20, 16, 16);
+    background-color: rgb(2, 19,2);
     padding: 10px 20px;
     border-radius: 25%;
-    color: ghstwhite;
+    color: ghostwhite;
     font-weight:700;
+}
 
+    
 .top-banner{
     background-image:url("img/img3.png") ;
     background-repeat:no-repeat;
@@ -27,10 +29,34 @@ h1{font-size: 50px;}
 }
 
 .heading-highlight{
-    color: rgb(233, 31, 31);
+    color: rgb(19,4,61);
     font-size:50px ;
 
 }
+
+
+
+
+
+
+.heading-highlight2{
+    color: #000;
+    text-align: center;
+    font-weight:700 ;
+    font-size: 50px;
+    margin-top: 0%;
+    background-color: royalblue(4,4,39);
+    
+}
+
+
+
+
+
+    
+    
+
+
 
 .img-sertup img{
     width: 100%;
@@ -45,13 +71,7 @@ height:500px ;
 }
 
 
-
-.heading-highlight2{
-    color: #000;
-    text-align: center;
-    font-weight:700 ;
-    font-size: 50px;
-    margin-top: 0;
-    background-color: royalblue;
     
-}
+
+    
+    
